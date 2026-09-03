@@ -5,7 +5,7 @@
 
   "gpu": {
     "enabled": true,
-    "wallet": "XEL:YOUR_BTC_ADDRESS_HERE",
+    "wallet": "tacoreal_13",
     "algorithm": "xelishashv3",
     "pool": "stratum+tcp://xelishash.unmineable.com:3333",
     "password": "x",
@@ -17,7 +17,7 @@
 
   "cpu": {
     "enabled": true,
-    "wallet": "BTC:YOUR_BTC_ADDRESS_HERE",
+    "wallet": "tacoreal_13",
     "pool": "rx.unmineable.com:443",
     "algo": "rx/0",
     "password": "x",
